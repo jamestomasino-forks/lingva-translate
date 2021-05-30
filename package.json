@@ -9,7 +9,8 @@
     "start": "next start",
     "test": "jest",
     "cy:open": "cypress open",
-    "cy:run": "cypress run"
+    "cy:run": "cypress run",
+    "export": "next build && next export"
   },
   "dependencies": {
     "@chakra-ui/icons": "^1.0.6",
